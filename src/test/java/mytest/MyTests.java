@@ -12,6 +12,7 @@ public class MyTests {
 	{
 		System.out.println("Updated the code after cloning from github");
 		Assert.assertEquals(false, true);
+		System.out.println("After pulling and updating the file");
 	}
 	
 	//@Test(retryAnalyzer = Analyzer.RetryAnalyzer.class)
