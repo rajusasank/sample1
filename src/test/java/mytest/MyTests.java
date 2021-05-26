@@ -14,6 +14,7 @@ public class MyTests {
 		Assert.assertEquals(false, true);
 		System.out.println("After pulling and updating the file");
 		System.out.println("New Branch-develop created");
+		System.out.println("New Update from pulled develop branch");
 	}
 	
 	//@Test(retryAnalyzer = Analyzer.RetryAnalyzer.class)
